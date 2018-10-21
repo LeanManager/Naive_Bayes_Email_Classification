@@ -35,7 +35,7 @@ t1 = time()
 
 pred = clf.predict(features_test)
 
-print("predict time:", round(time()-t0, 3), "s")
+print("predict time:", round(time()-t1, 3), "s")
 
 # Accuracy
 
