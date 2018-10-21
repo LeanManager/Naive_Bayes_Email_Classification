@@ -22,4 +22,4 @@ We will need to install:
 Clone this repository into a directory of your choice, then run the startup.py script from there using Terminal (MacOS) with the command 'python startup.py'.
 It will first check for the Python modules, then download and unzip a large dataset that we will use. The download/unzipping can take a while.
 
-Next, run the nb_author_id.py script with the command 'python nb_author_id.py' and observe the output.
+Next, run the nb_author_id.py script with the command 'python nb_author_id.py' and observe the output. The predictive accuracy of our model is above 97%.
