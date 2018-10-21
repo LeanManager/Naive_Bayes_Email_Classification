@@ -1,4 +1,4 @@
-# Naive-Bayes-Email-Classification
+# Naive Bayes Email Classification
 
 We have a set of emails, half of which were written by one person and the other half by another person at the same company. 
 
