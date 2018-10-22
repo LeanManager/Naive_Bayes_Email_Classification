@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 """ 
     Using a Naive Bayes Classifier to identify emails by their authors
     
